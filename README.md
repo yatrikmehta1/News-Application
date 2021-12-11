@@ -4,7 +4,7 @@ A simple News Android application written in Kotlin
 
 What's the app about?
 
-Step-1:In this app First We register ourself then our information stores in database so existing User can login , we login the app then our information stores in dashboard page using shared-preference method. Using Shared-preference method We maintained a season.  We can use lottie library for animation purpose
+Step-1:In this app First I'm register myself then my information stores in firebase database so existing User can login , I'm login the app then my information stores in dashboard page using shared-preference method. Using Shared-preference method I'm maintaining a season.  I am using lottie library for animation purpose
 
 Step-2: This is a simple news feed application based on RecyclerView, The description of this project is first we will send a api request on the server for news json data , then shows into RecyclerView, after that whenever we click on any news item it will show the article on that news...
 
